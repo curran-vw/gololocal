@@ -1,0 +1,19 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="GoLoLocal — Local SEO Call Tracking Software 2026">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#E0F2FE"/></linearGradient>
+    <linearGradient id="pin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0EA5E9"/><stop offset="1" stop-color="#0369A1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(120 130)">
+    <text x="0" y="0" font-family="Inter, sans-serif" font-size="22" fill="#0EA5E9" font-weight="700" letter-spacing="3">GOLOLOCAL · 2026</text>
+    <text x="0" y="100" font-family="Inter, sans-serif" font-size="78" font-weight="800" fill="#0F172A">Local SEO</text>
+    <text x="0" y="190" font-family="Inter, sans-serif" font-size="78" font-weight="800" fill="#0F172A">Call Tracking</text>
+    <text x="0" y="265" font-family="Inter, sans-serif" font-size="32" fill="#475569" font-weight="500">A Practical Picks Report for Local SEO Agencies</text>
+    <text x="0" y="345" font-family="Inter, sans-serif" font-size="20" fill="#0EA5E9" font-weight="700">By Tom Bauer · Updated May 2026</text>
+  </g>
+  <g transform="translate(900 200)">
+    <path d="M80 0 C124 0 160 36 160 80 C160 144 80 240 80 240 C80 240 0 144 0 80 C0 36 36 0 80 0 Z" fill="url(#pin)"/>
+    <circle cx="80" cy="80" r="32" fill="#FFFFFF"/>
+    <path transform="translate(60 60)" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.28-.28.67-.36 1.02-.25 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" fill="#0EA5E9"/>
+  </g>
+</svg>
